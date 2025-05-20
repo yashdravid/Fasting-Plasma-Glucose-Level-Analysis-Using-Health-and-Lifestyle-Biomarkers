@@ -37,7 +37,7 @@ This project explores a biomedical dataset with over 50,000 records; focusing on
 
 - `glucose_analysis.ipynb` – Main Jupyter notebook with code and analysis
 - `README.md` – This project overview
-- `glucose_analysis_health_biomarkers.pdf` – Summary of findings and visuals
+- `Glucose_analysis_report.pdf` – Summary of findings and visuals
 
 ## 💡 Key Insight
 
