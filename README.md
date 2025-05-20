@@ -43,6 +43,9 @@ This project explores a biomedical dataset with over 50,000 records; focusing on
 
 Despite rigorous data cleaning and EDA, the dataset did not show strong relationships between FPG and traditional clinical or behavioral variables, suggesting a need for richer features or more complex modeling approaches in biomedical analytics.
 
+## 📂 Dataset
+You can access the dataset here : https://www.kaggle.com/datasets/pkdarabi/diabetes-dataset-with-18-features
+
 ## 👤 Author
 
 Yash Dravid (www.linkedin.com/in/yash-dravid)
